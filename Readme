@@ -12,7 +12,7 @@
 
 ---
 
-## 📑 Tabla de Contenidosa
+## 📑 Tabla de Contenidos
 - [Acerca del Proyecto](#acerca-del-proyecto)
 - [Estructura del Repositorio](#estructura-del-repositorio)
 - [Descripción del Algoritmo](#descripción-del-algoritmo)
@@ -53,7 +53,7 @@ Repositorio_Calculo_IPM/
 │
 ├── 02_Figuras/
 │   ├── 03_descomposicion_ipm_barras.png
-│   └── brecha_educativa_urbano_rural.png
+│   └── brecha_educativa_zonas.png
 │
 └── README.md
 ```
@@ -215,9 +215,9 @@ Los resultados pueden exportarse fácilmente modificando las últimas líneas de
 
 ---
 
-### Brecha educativa urbano-rural
+### Brecha educativa por zonas
 
-![Brecha educativa](brecha_educativa_urbano_rural.png)
+![Brecha educativa](brecha_educativa_zonas.png)
 
 **Descripción:** Pirámide educativa comparativa que muestra la distribución de niveles educativos alcanzados por la población en zonas urbanas versus rurales. La visualización permite identificar disparidades significativas en el acceso y logro educativo según área geográfica, evidenciando las brechas estructurales que contribuyen a la pobreza multidimensional en el contexto colombiano. Se desagrega por grupos de edad para analizar la evolución generacional del acceso educativo.
 
